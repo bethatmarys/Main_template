@@ -1,21 +1,18 @@
+
+
 /* WIREFRAME TESTING */
-
 /* This section will create dashed borders around all elements, uncomment the below code when building layout */
-
-/*:not(body):not(html) {
+:not(body):not(html) {
   box-sizing:border-box;
   border:1px dashed #000;
 }
-
 .columns {
   min-height: 100px;
-}*/
-
+}
 /* END WIREFRAME TESTING */
 
 
 /* GLOBAL STYLES */
-
 * {
   margin: 0;
   padding: 0;
@@ -45,6 +42,7 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
   letter-spacing: 0.1rem;
 }
+
 
   /*Link styles*/
 
